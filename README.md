@@ -1,3 +1,7 @@
+# DISCLAIMER
+
+All credit goes to Michael D'Angelo and his [repo](https://github.com/mldangelo/personal-site).
+
 # Personal Website
 
 See: [mldangelo.com](https://mldangelo.com).
