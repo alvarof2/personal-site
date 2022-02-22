@@ -23,7 +23,8 @@ const SideBar = () => (
         I currently work at <a href="https://keyko.io/">Keyko</a>. Before Keyko I was
         at <a href="https://empathy.co">Empathy</a>
         , and <a href="https://www.stratio.com/home">StratioBD</a>.
-        I&apos;m an <a href="https://www.ntnu.edu/">NTNU</a> Ph.D. in Telematics and <a href="https://universityofvalladolid.uva.es/">UVa</a> alumnus.
+        I hold a Ph.D. in Telematics from <a href="https://www.ntnu.edu/">NTNU</a> and a Telecommunications
+        Engineer M.Sc from <a href="https://universityofvalladolid.uva.es/">UVa</a>.
       </p>
       <ul className="actions">
         <li>
