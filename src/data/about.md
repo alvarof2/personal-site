@@ -5,7 +5,7 @@ Curious, eager to learn, and passionate about the DevOps world (culture, movemen
 
 # Currently
 
-At [Keyko](https://keyko.io/), I'm trying to contonue learning about Cloud Computing, all things DevOps, and start my journey with cryptocurrencies and blockchain.
+At [Keyko](https://keyko.io/), I'm trying to continue learning about Cloud Computing, all things DevOps, and start my journey with cryptocurrencies and blockchain.
 
 # Some history
 
