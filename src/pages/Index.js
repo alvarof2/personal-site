@@ -24,7 +24,9 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Original source available <a href="https://github.com/mldangelo/personal-site">here</a>. Full credit to Michael D&apos;Angelo for the original code of this website.</p>
+      <p> Source available <a href="https://github.com/alvarof2/personal-site">here</a>.
+        <br />Full credit to <a href="https://mldangelo.com/">Michael D&apos;Angelo</a> for the <a href="https://github.com/mldangelo/personal-site">original code</a>.
+      </p>
     </article>
   </Main>
 );
