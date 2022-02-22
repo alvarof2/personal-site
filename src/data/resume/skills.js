@@ -49,7 +49,7 @@ const skills = [
   },
   {
     title: 'Jenkins',
-    competency: 2,
+    competency: 1,
     category: ['CI/CD'],
   },
   {
