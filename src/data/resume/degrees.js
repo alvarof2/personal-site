@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Norwegian University of Science and Technology (NTNU)',
+    degree: 'Ph.D. in Telematics',
+    link: 'https://www.ntnu.edu/',
+    year: 2017,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
+    school: 'University of Valladolid',
+    degree: 'M.Sc. Telecommunications Engineering',
+    link: 'https://universityofvalladolid.uva.es/',
     year: 2012,
   },
 ];
