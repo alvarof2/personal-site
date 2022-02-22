@@ -15,9 +15,9 @@ At [Keyko](https://keyko.io/), I'm trying to contonue learning about Cloud Compu
 
 - Went to write my Master's thesis to NTNU, in Trondheim, Norway, as an Erasmus student.
 
-- I remained in Trondheim to pursue my Ph.D. in Telematics.
+- Remained in Trondheim to pursue my Ph.D. in Telematics.
 
-- I went back to Spain, settled in Madrid, and started working in the DevOps world.
+- Went back to Spain, settled in Madrid, and started working in the DevOps world.
 
 # I like
 
