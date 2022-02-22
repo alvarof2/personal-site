@@ -103,11 +103,6 @@ const skills = [
     category: ['Cloud Computing'],
   },
   {
-    title: 'MongoDB',
-    competency: 2,
-    category: ['NoSQL', 'DBA'],
-  },
-  {
     title: 'Zookeeper',
     competency: 1,
     category: ['Key-Value Store', 'DBA'],
