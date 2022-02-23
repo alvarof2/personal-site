@@ -7,7 +7,7 @@ const certifications = [
   },
   {
     title: 'CKAD: Certified Kubernetes Application Developer',
-    daterange: 'March 2021 - February 2024',
+    daterange: 'March 2021 - March 2024',
     link: 'https://www.credly.com/badges/f50385c4-56d4-4a57-81bb-3e54779d782c/public_url',
     company: 'The Linux Foundation',
   },
