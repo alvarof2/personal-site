@@ -78,7 +78,7 @@ const skills = [
     category: ['Observability', 'Logging'],
   },
   {
-    title: 'Fluent Fluentd',
+    title: 'Fluentd',
     competency: 2,
     category: ['Observability', 'Logging'],
   },
