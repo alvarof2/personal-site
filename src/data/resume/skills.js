@@ -152,6 +152,11 @@ const skills = [
     competency: 3,
     category: ['Configuration Languages', 'Cloud Infrestructure', 'IaC'],
   },
+  {
+    title: 'Ansible',
+    competency: 3,
+    category: ['Configuration Languages', 'Configuration Management', 'IaC'],
+  },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be == to the
