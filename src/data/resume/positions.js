@@ -51,7 +51,7 @@ const positions = [
     daterange: 'June 2012 - March 2017',
     points: [
       'My position at the Department of Telematics (ITEM) consists of both research activities (75% - under the supervision of Associate Professor Norvald Stol) and teaching duties (25%).',
-      'As for my research activities, my dissertation is focused on cost-effective dependability of optical networks. A more in deep description can be found in my NTNU employee web page. The Lone Lynx project is a side project in Internet of Things (IoT) not directly related to my research area.',
+      'As for my research activities, my dissertation is focused on cost-effective dependability of optical networks.',
       'Teaching duties involved assistance to courses mainly related to networking (architectures, performance and dependability).',
     ],
   },
