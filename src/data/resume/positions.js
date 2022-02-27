@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'Keyko',
-    position: 'DevOps Engineer, Independent Contractor',
+    position: 'DevOps Engineer',
     link: 'https://keyko.io/',
     daterange: 'February 2022 - Present',
     points: [
