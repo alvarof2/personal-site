@@ -41,6 +41,12 @@ const certifications = [
     link: 'https://university.mongodb.com/certification/certificate/299591948',
     company: 'MongoDB, Inc',
   },
+  {
+    title: 'CKA: Certified Kubernetes Administrator',
+    daterange: 'April 2022 - April 2025',
+    link: 'https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f8cbd806-c65b-4942-b8c0-c00607c7e1b0-lvaro-fernndez-fernndez-5cb377a7-6b6c-4c94-b86d-3f1bf8498b79-certificate.pdf',
+    company: 'The Linux Foundation',
+  },
 ];
 
 export default certifications;
