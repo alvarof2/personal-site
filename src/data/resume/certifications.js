@@ -44,7 +44,7 @@ const certifications = [
   {
     title: 'CKA: Certified Kubernetes Administrator',
     daterange: 'April 2022 - April 2025',
-    link: 'https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f8cbd806-c65b-4942-b8c0-c00607c7e1b0-lvaro-fernndez-fernndez-5cb377a7-6b6c-4c94-b86d-3f1bf8498b79-certificate.pdf',
+    link: 'https://www.credly.com/badges/95840aae-4a36-4ed4-bf88-d2305706ce8c/public_url',
     company: 'The Linux Foundation',
   },
 ];
