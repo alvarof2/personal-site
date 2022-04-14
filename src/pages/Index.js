@@ -12,7 +12,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            Álvaro Fernández&apos;s personal website. Madrid based independet contractor as DevOps
+            Álvaro Fernández&apos;s personal website. Madrid based independet contractor as Platform
             engineer at Keyko. Ph.D. in Telematics from the Norwegian University of Science and
             Technology (NTNU), and Telecommunications Engineer from the University of Valladolid
             (UVa).
