@@ -5,7 +5,7 @@ import Conference from './Conferences/Conference';
 
 const Conferences = ({ data }) => (
   <div className="conferences">
-    <div className="link-to" id="Conferences" />
+    <div className="link-to" id="conferences" />
     <div className="title">
       <h3>Conferences</h3>
     </div>
