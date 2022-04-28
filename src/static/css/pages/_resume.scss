@@ -71,6 +71,36 @@
 		}
 	}
 
+	.conferences {
+		padding-top: 1.6em;
+		.title {
+			text-align: center;
+			margin-bottom: 2em;
+		}
+		.conferences {
+			margin: 1em;
+			p{
+				margin: 0;
+			}
+		}
+		.authors {
+			margin-bottom: .7em;
+			text-transform: none;
+			letter-spacing: 0.16em;
+			font-size: .8em;
+		}
+	}
+
+	.conference-container {
+		.date {
+			li {
+				margin: 0;
+				padding: 0;
+				font-size: .9em;
+			}
+		}
+	}
+
 	.jobs-container {
 		.points {
 			li {
