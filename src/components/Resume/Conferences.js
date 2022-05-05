@@ -24,7 +24,7 @@ Conferences.propTypes = {
     talklink: PropTypes.string.isRequired,
     conference: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
-    authors: PropTypes.string,
+    authors: PropTypes.arrayOf(PropTypes.arrayOf(PropTypes.string)),
     date: PropTypes.string,
   })),
 };
