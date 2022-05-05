@@ -21,6 +21,7 @@ const Conferences = ({ data }) => (
 Conferences.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
     link: PropTypes.string,
+    talklink: PropTypes.string.isRequired,
     conference: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
     authors: PropTypes.string,
