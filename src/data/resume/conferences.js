@@ -20,7 +20,7 @@ const conferences = [
       ['César González González', 'https://linkedin.com/in/cesar-gonzalez-93201230'],
       ['Álvaro Fernández Fernández', 'https://www.fernandezfalvaro.com/'],
     ],
-  }
+  },
 ];
 
 export default conferences;
