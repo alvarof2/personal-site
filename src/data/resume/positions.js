@@ -5,6 +5,13 @@ const positions = [
     link: 'https://keyko.io/',
     daterange: 'February 2022 - Present',
     points: [
+      'Operate and maintain the Keyko.io CELO blockchain validator as well as set up the monitoring stack based on Grafana Cloud.',
+      'Install and manage the Keyko.io deployments based on Kubernetes (GKE).',
+      'Establish a GitOps approach for Keyko deployments using ArgoCD.',
+      'Plan and automatize the Helm charts lifecycle at Keyko.io (development, testing and publishing through GitHub Actions and GCP Artifact Registry).',
+      'Manage and administer the cloud infrastructure (AWS, GCP) and the Google Workspace for Keyko.io.',
+      'Configure and administer the CI/CD technologies at Keyko.io (Github Actions and DockerHub).',
+      'Deploy, configure and maintain the monitoring stack based on Prometheus, Alertmanager and Grafana in Kubernetes.',
     ],
   },
   {
