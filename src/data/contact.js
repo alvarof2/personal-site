@@ -17,7 +17,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://www.linkedin.com/in/fernandezfalvaro/',
+    link: 'https://twitter.com/alvaroferfer',
     label: 'Twitter',
     icon: faTwitter,
   },
