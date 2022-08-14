@@ -21,7 +21,7 @@ const Index = () => (
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
-        <Link to="/resume">resume</Link> (also available in <a href="https://drive.google.com/file/d/1zxhHDboE6jiq_OdvfMPgr0tFmQfZ9L9z/view?usp=sharing">pdf format</a> with source code <a href="https://github.com/alvarof2/latex-cv">here</a>), {' '}
+        <Link to="/resume">resume</Link> (also available in <a href="https://drive.google.com/file/d/10YSW3-9GJWMi0u5RP2kaVQk6O4UOnysj/view?usp=sharing">pdf format</a> with source code <a href="https://github.com/alvarof2/latex-cv">here</a>), {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
       <p> Source available <a href="https://github.com/alvarof2/personal-site">here</a>.
