@@ -5,7 +5,7 @@ Curious, eager to learn, and passionate about the DevOps world (culture, movemen
 
 # Currently
 
-At [Keyko](https://keyko.io/), I'm trying to continue learning about Cloud Computing, all things DevOps, and start my journey with cryptocurrencies and blockchain.
+At [cLabs](https://clabs.co/), I'm trying to continue learning about Cloud Computing, all things DevOps, cryptocurrencies and blockchain.
 
 # Some history
 
@@ -32,4 +32,4 @@ At [Keyko](https://keyko.io/), I'm trying to continue learning about Cloud Compu
 - Judge Dredd
 - Whisky
 - Beers with my friends
-- Travelling to see people, NOT to see things
+- Travelling to visit people, NOT to see things

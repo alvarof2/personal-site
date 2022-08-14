@@ -1,9 +1,17 @@
 const positions = [
   {
+    company: 'cLabs - Independent Contractor',
+    position: 'DevOps Engineer',
+    link: 'https://clabs.co/',
+    daterange: 'August 2022 - Present',
+    points: [
+    ],
+  },
+  {
     company: 'Keyko - Independent Contractor',
     position: 'Platform Engineer',
     link: 'https://keyko.io/',
-    daterange: 'February 2022 - Present',
+    daterange: 'February 2022 - August 2022',
     points: [
       'Operate and maintain the Keyko.io CELO blockchain validator as well as set up the monitoring stack based on Grafana Cloud.',
       'Install and manage the Keyko.io deployments based on Kubernetes (GKE).',
