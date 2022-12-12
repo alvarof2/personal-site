@@ -1,5 +1,11 @@
 const certifications = [
   {
+    title: 'PCA: Prometheus Certified Associate',
+    daterange: 'December 2022 - December 2025',
+    link: 'https://www.credly.com/badges/3896aa96-681a-43af-b561-45f49cb16a40/public_url',
+    company: 'The Linux Foundation',
+  },
+  {
     title: 'CKS: Certified Kubernetes Security Specialist',
     daterange: 'September 2022 - September 2024',
     link: 'https://www.credly.com/badges/f1e58d40-ed92-440f-91ca-3f538c800387/public_url',
