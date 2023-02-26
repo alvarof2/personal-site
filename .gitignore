@@ -37,10 +37,10 @@ node_modules
 .lock-wscript
 
 # Webpack related
-public/dist/
-dist/
-tmp/
-build/
+#public/dist/
+#dist/
+#tmp/
+#build/
 
 # OSX
 .DS_Store
