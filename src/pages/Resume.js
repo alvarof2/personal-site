@@ -44,7 +44,7 @@ const Resume = () => (
 
         </div>
       </header>
-      <p> My resume is also available in <a href="https://drive.google.com/file/d/1I8yaBpfLYyzBI4BPa6He5MUS3Iydq56w/view?usp=sharing">pdf format</a> with source code <a href="https://github.com/alvarof2/latex-cv">here</a>.
+      <p> My resume is also available in <a href="https://drive.google.com/file/d/1U-_QUiusThRz20DEGw_3tQUpzetpL58C/view?usp=sharing">pdf format</a> with source code <a href="https://github.com/alvarof2/latex-cv">here</a>.
       </p>
       <Education data={degrees} />
       <Experience data={positions} />
