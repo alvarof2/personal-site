@@ -20,8 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Álvaro. I like all things related to the DevOps culture.
-        I&apos;m an independent contractor working as Platform (DevOps) Engineer.
-        I currently work mainly for <a href="https://clabs.co/">cLabs</a>.
+        I&apos;m a Platform and DevOps Engineer.
+        I currently work for <a href="https://clabs.co/">cLabs</a>.
         Before, I&apos;ve also worked for <a href="https://keyko.io/">Keiko</a>, <a href="https://empathy.co">Empathy</a>,
         and <a href="https://www.stratio.com/home">StratioBD</a>.
         I hold a Ph.D. in Telematics from <a href="https://www.ntnu.edu/">NTNU</a> and a Telecommunications

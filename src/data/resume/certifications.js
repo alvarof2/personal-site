@@ -1,5 +1,11 @@
 const certifications = [
   {
+    title: 'Microsoft Certified: Azure Fundamentals',
+    daterange: 'February 2023 - NA',
+    link: 'https://www.credly.com/badges/7e7f8b88-5ba5-45d2-8adc-9a7d3a6c3cf3/public_url',
+    company: 'Microsoft',
+  },
+  {
     title: 'PCA: Prometheus Certified Associate',
     daterange: 'December 2022 - December 2025',
     link: 'https://www.credly.com/badges/3896aa96-681a-43af-b561-45f49cb16a40/public_url',
