@@ -20,13 +20,7 @@ const positions = [
     link: 'https://clabs.co/',
     daterange: 'August 2022 - January 2023',
     points: [
-      'Manage and administer the cLabs cloud infrastructure (Azure and GCP).',
-      'Migrate the cLabs owned infrastructure (Azure and Azure AD) to Mento spin off.',
-      'Install and manage the cLabs deployments based on Kubernetes (GKE and AKS).',
-      'Integrate cLabs deployments with the Akeyless.io Secrets Management Platform.',
-      'Develop and maintain a GitOps CI/CD approach for cLabs deployments using both push-based (Terraform, GitHub Actions) and pull-based (ArgoCD) GitOps.',
-      'Deploy and configure the monitoring and logging stack based on Prometheus, Promtail, Loki and Grafana Cloud with a GitOps approach (Terraform and GitHub Actions).',
-      'Automate the Helm charts lifecycle at cLabs (development, testing and publishing through GitHub Actions and GCP Artifact Registry).',
+      'As independent contractor at cLabs, my duties were very similar to those described above as full-time employee.',
     ],
   },
   {

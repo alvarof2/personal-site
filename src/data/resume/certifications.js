@@ -61,7 +61,7 @@ const certifications = [
   },
   {
     title: 'Hashicorp Certified: Terraform Associate',
-    daterange: 'February 2021 - February 2023',
+    daterange: 'February 2021 - October 2023',
     link: 'https://www.credly.com/badges/7891b2ed-8b26-40d0-94b4-58840bf75d75/public_url',
     company: 'Hashicorp',
   },
