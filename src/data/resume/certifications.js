@@ -43,7 +43,7 @@ const certifications = [
   },
   {
     title: 'Google Cloud Associate Cloud Engineer',
-    daterange: 'June 2021 - June 2023',
+    daterange: 'June 2021 - June 2024',
     link: 'https://www.credential.net/fb20a350-1d43-4715-bf2c-4da1cd89202b?key=b6a26cd1cf3a189048ede421d0bf653a7ef86e6a16ecba37bc3c2029aa000d88',
     company: 'Google Cloud',
   },
