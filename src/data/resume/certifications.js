@@ -1,5 +1,11 @@
 const certifications = [
   {
+    title: 'HashiCorp Certified: Terraform Associate (003)',
+    daterange: 'October 2023 - October 2025',
+    link: 'https://www.credly.com/badges/b889f726-4ad3-4ec5-87af-0bd8a2f06c26/public_url',
+    company: 'Hashicorp',
+  },
+  {
     title: 'Microsoft Certified: Azure Fundamentals',
     daterange: 'February 2023 - NA',
     link: 'https://www.credly.com/badges/7e7f8b88-5ba5-45d2-8adc-9a7d3a6c3cf3/public_url',
